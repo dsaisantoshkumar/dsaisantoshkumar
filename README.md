@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a seasoned SAP ABAP Consultant with 4+ years o
 
 ## 💼 Open Opportunities
 
-I'm actively seeking roles with leading consulting firms such as **Accenture, Deloitte, and Ernst & Young** focusing on:
+I'm actively seeking roles with **Big Four consulting firms and global technology partners** focusing on:
 - SAP S/4HANA implementations
 - Cloud transformation projects
 - Application development and architecture
