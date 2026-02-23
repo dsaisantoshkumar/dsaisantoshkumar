@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Santosh Kumar Devarasetty
 
-<!--
-**dsaisantoshkumar/dsaisantoshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SAP S/4HANA ABAP Consultant | Cloud Enabler | Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a seasoned SAP ABAP Consultant with 4+ years of hands-on experience in enterprise application development, process optimization, and digital transformation initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Expertise
+
+- **SAP S/4HANA ABAP Development** - Core application development and customization
+- **REST APIs & OData** - Building modern integration services for cloud-native applications
+- **CDS (Core Data Services)** - Designing efficient data models and views
+- **RAP (RESTful Application Programming Model)** - Developing HANA-optimized cloud applications
+- **FIORI & UI5** - Creating modern user interfaces for enterprise applications
+- **Performance Optimization** - Tuning ABAP code and database queries for scalability
+- **System Integrations** - RFC, Web Services, and middleware connectivity
+- **SAP Reports & Analytics** - Custom reporting solutions using ALV and SmartForms
+
+---
+
+## 🎯 Areas of Focus
+
+- Enterprise-grade SAP implementations
+- Cloud migration strategies (S/4HANA, BTP)
+- Process automation and optimization
+- Mentoring and code quality excellence
+- DevOps practices in SAP ecosystem
+
+---
+
+## 📊 What I'm Up To
+
+- 🚀 Exploring advanced SAP HANA optimization techniques
+- 📚 Deepening expertise in SAP Fiori and modern UX patterns
+- 🤝 Collaborating on enterprise integration projects
+- 💡 Sharing knowledge on SAP best practices
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/kumar29](https://www.linkedin.com/in/kumar29/)
+- **Location:** Bentonville, Arkansas, USA
+- **Timezone:** Central Time (UTC -6/-5)
+
+---
+
+## 💼 Open Opportunities
+
+I'm actively seeking roles with leading consulting firms such as **Accenture, Deloitte, and Ernst & Young** focusing on:
+- SAP S/4HANA implementations
+- Cloud transformation projects
+- Application development and architecture
+- Technical consulting and solution design
+
+---
+
+**Let's build something amazing together!** 🚀
