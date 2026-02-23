@@ -1,59 +1,93 @@
-# 👋 Hi, I'm Sai Santosh Kumar Devarasetty
+# Hi, I'm Kumar Santosh 👋
 
-### SAP S/4HANA ABAP Consultant | Cloud Enabler | Developer
+## 🚀 SAP S/4HANA ABAP Consultant | RAP | CDS | OData | Performance Optimization
 
-Welcome to my GitHub profile! I'm a seasoned SAP ABAP Consultant with 4+ years of hands-on experience in enterprise application development, process optimization, and digital transformation initiatives.
+I am an SAP ABAP Developer with 3+ years of experience in S/4HANA and ECC environments. 
+Currently working as an SAP S/4HANA ABAP Consultant, I specialize in building scalable backend solutions using RAP (RESTful Application Programming Model), CDS Views, OData (V2/V4), and SAP Fiori integrations.
 
----
-
-## 🛠️ Technical Expertise
-
-- **SAP S/4HANA ABAP Development** - Core application development and customization
-- **REST APIs & OData** - Building modern integration services for cloud-native applications
-- **CDS (Core Data Services)** - Designing efficient data models and views
-- **RAP (RESTful Application Programming Model)** - Developing HANA-optimized cloud applications
-- **FIORI & UI5** - Creating modern user interfaces for enterprise applications
-- **Performance Optimization** - Tuning ABAP code and database queries for scalability
-- **System Integrations** - RFC, Web Services, and middleware connectivity
-- **SAP Reports & Analytics** - Custom reporting solutions using ALV and SmartForms
+I focus on performance optimization, system integrations, and delivering enterprise-grade ABAP solutions aligned with modern S/4HANA architecture.
 
 ---
 
-## 🎯 Areas of Focus
+## 💼 Professional Experience
 
-- Enterprise-grade SAP implementations
-- Cloud migration strategies (S/4HANA, BTP)
-- Process automation and optimization
-- Mentoring and code quality excellence
-- DevOps practices in SAP ecosystem
-
----
-
-## 📊 What I'm Up To
-
-- 🚀 Exploring advanced SAP HANA optimization techniques
-- 📚 Deepening expertise in SAP Fiori and modern UX patterns
-- 🤝 Collaborating on enterprise integration projects
-- 💡 Sharing knowledge on SAP best practices
+🔹 SAP S/4HANA ABAP Consultant  
+- Designing RAP-based applications with behavior definitions, validations, and determinations  
+- Building CDS Views, AMDP procedures, and OData services  
+- Developing RICEF objects (Reports, Interfaces, Conversions, Enhancements, Forms)  
+- Performance tuning using Open SQL optimization and index strategies  
+- REST API integrations with external systems  
+- Supporting SIT/UAT and Agile delivery cycles  
 
 ---
 
-## 🔗 Connect With Me
+## 🛠 Technical Skills
 
-- **LinkedIn:** [linkedin.com/in/kumar29](https://www.linkedin.com/in/kumar29/)
-- **Location:** Bentonville, Arkansas, USA
-- **Timezone:** Central Time (UTC -6/-5)
+### 🔹 ABAP & Frameworks
+- OO-ABAP
+- ABAP RAP
+- Open SQL
+- CDS Views
+- OData (V2/V4)
+- EML
+- Behavior Definitions
+
+### 🔹 SAP Technologies
+- SAP S/4HANA
+- SAP NetWeaver
+- SAP Gateway
+- SAP Fiori Elements
+- Smart Forms
+- ALV Reports
+- BAPIs / BADIs
+- Enhancement Framework
+- DDIC
+
+### 🔹 Performance Optimization
+- SQL Tuning
+- Index Optimization
+- HANA Query Optimization
+- Execution Plan Analysis
+
+### 🔹 Integration & Migration
+- Outbound Interfaces
+- REST API Integration
+- Data Migration
+- Data Validation & Cleansing
+
+### 🔹 Agile & Tools
+- Jira
+- Rally
+- Agile/Scrum
+- Sprint Planning
+- Defect Tracking
 
 ---
 
-## 💼 Open Opportunities
+## 📌 Current Focus
 
-I'm actively seeking roles with **Big Four consulting firms and global technology partners** focusing on:
-- SAP S/4HANA implementations
-- Cloud transformation projects
-- Application development and architecture
-- Technical consulting and solution design
+- Building scalable RAP applications
+- Advanced CDS modeling for analytics
+- High-performance ABAP design patterns
+- Clean architecture for S/4HANA backend services
 
 ---
 
-**Let's build something amazing together!** 🚀
+## 📚 Education
+
+🎓 Master of Science in Computer Science  
+The University of Southern Mississippi (2023)
+
+🎓 Bachelor of Science in Computer Science, Mathematics & Statistics  
+Acharya Nagarjuna University (2021)
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: [dsaisantoshkumar@gmail.com](mailto:dsaisantoshkumar@gmail.com)  
+🔗 LinkedIn: [https://linkedin.com/in/santosh29](https://linkedin.com/in/santosh29)  
+
+---
+
+⭐ Always learning. Always optimizing. Always building scalable SAP solutions.
