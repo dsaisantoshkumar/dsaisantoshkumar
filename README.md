@@ -1,4 +1,4 @@
-# Hi, I'm Kumar Santosh 👋
+# Hi, I'm Santosh 👋
 
 ## 🚀 SAP S/4HANA ABAP Consultant | RAP | CDS | OData | Performance Optimization
 
