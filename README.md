@@ -87,7 +87,7 @@ Acharya Nagarjuna University (2021)
 
 📧 Email: [dsaisantoshkumar@gmail.com](mailto:dsaisantoshkumar@gmail.com)  
 🔗 LinkedIn: [https://linkedin.com/in/santosh29](https://linkedin.com/in/santosh29)  
-Portfolio: https://santosh-sap.lovable.app 
+Portfolio: https://dsaisantoshkumar.github.io/
 
 ---
 
