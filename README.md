@@ -1,94 +1,87 @@
-# Hi, I'm Santosh 👋
+# Hi, I'm Santosh
 
-## 🚀 SAP S/4HANA ABAP Consultant | RAP | CDS | OData | Performance Optimization
+## SAP S/4HANA and BTP Consultant | AI and ML Engineer
 
-I am an SAP ABAP Developer with 3+ years of experience in S/4HANA and ECC environments. 
-Currently working as an SAP S/4HANA ABAP Consultant, I specialize in building scalable backend solutions using RAP (RESTful Application Programming Model), CDS Views, OData (V2/V4), and SAP Fiori integrations.
-
-I focus on performance optimization, system integrations, and delivering enterprise-grade ABAP solutions aligned with modern S/4HANA architecture.
+I am an SAP S/4HANA ABAP Consultant with more than 4 years of enterprise experience specializing in Clean Core architecture, SAP BTP, and modern backend development. Beyond core SAP, I bridge the gap between enterprise data and intelligent systems by building machine learning pipelines and automated code-generation agents.
 
 ---
 
-## 💼 Professional Experience
+## Technical Arsenal
 
-🔹 SAP S/4HANA ABAP Consultant  
-- Designing RAP-based applications with behavior definitions, validations, and determinations  
-- Building CDS Views, AMDP procedures, and OData services  
-- Developing RICEF objects (Reports, Interfaces, Conversions, Enhancements, Forms)  
-- Performance tuning using Open SQL optimization and index strategies  
-- REST API integrations with external systems  
-- Supporting SIT/UAT and Agile delivery cycles  
+### SAP and Enterprise Frameworks
+* Core and Cloud: ABAP RESTful Application Programming Model (RAP), ABAP on HANA, OO-ABAP
+* Database and Core Extensions: CDS Views (with parameters and associations), AMDP, HANA Code Pushdown, DDIC, TMG
+* Integration: OData V2 and V4, SAP Gateway, REST APIs, BAPIs, BADIs, SLT Replication, Postman
+* UX and UI: SAP Fiori Elements, UI5, Adobe Forms, Smart Forms, ALV Reports
+* Performance Tuning: ST05, SE30, SAT, ST22, Eclipse ADT, Code Inspector
 
----
-
-## 🛠 Technical Skills
-
-### 🔹 ABAP & Frameworks
-- OO-ABAP
-- ABAP RAP
-- Open SQL
-- CDS Views
-- OData (V2/V4)
-- EML
-- Behavior Definitions
-
-### 🔹 SAP Technologies
-- SAP S/4HANA
-- SAP NetWeaver
-- SAP Gateway
-- SAP Fiori Elements
-- Smart Forms
-- ALV Reports
-- BAPIs / BADIs
-- Enhancement Framework
-- DDIC
-
-### 🔹 Performance Optimization
-- SQL Tuning
-- Index Optimization
-- HANA Query Optimization
-- Execution Plan Analysis
-
-### 🔹 Integration & Migration
-- Outbound Interfaces
-- REST API Integration
-- Data Migration
-- Data Validation & Cleansing
-
-### 🔹 Agile & Tools
-- Jira
-- Rally
-- Agile/Scrum
-- Sprint Planning
-- Defect Tracking
+### AI and Machine Learning
+* Frameworks and Tools: Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
+* Models and Analytics: CNN, RNN, LSTM, NLP, TF-IDF, Anomaly Detection, Power BI
 
 ---
 
-## 📌 Current Focus
+## Professional Experience
 
-- Building scalable RAP applications
-- Advanced CDS modeling for analytics
-- High-performance ABAP design patterns
-- Clean architecture for S/4HANA backend services
+### SAP S/4HANA ABAP Consultant | CVS Health
+January 2025 – January 2026
+* Architected configurable data retention solutions (TVARVC) and scalable data separation strategies for high-volume payment systems processing over 1 billion records, applying clean-core principles on SAP BTP ABAP Environment.
+* Engineered CDS Views with input parameters, AMDP procedures, and HANA-optimized ALV reports using code pushdown, which reduced report runtime by 83 percent.
+* Exposed OData V2 and V4 services via SEGW and RAP for SAP Fiori apps, and built outbound RPS interfaces with parallel processing delivering 65 percent faster posting.
+* Led ECC to S/4HANA migration including code remediation, clean-core compliance review, and SLT replication to GCP across DEV, QAS, and PRD environments.
 
----
+### SAP ABAP RAP Developer | Cloudninetek LLC
+February 2023 – January 2025
+* Built scalable RAP applications with Business Objects, BDEF, validations, determinations, and side effects for Finance, Procurement, and SCM modules.
+* Designed annotated CDS Views and Fiori Elements apps, exposed OData V2 and V4 via RAP, and integrated SAP with non-SAP systems via REST APIs.
+* Developed Smart Forms, SAP Scripts, and role-based authorization checks across DEV, QA, and PRD landscapes.
 
-## 📚 Education
-
-🎓 Master of Science in Computer Science  
-The University of Southern Mississippi (2023)
-
-🎓 Bachelor of Science in Computer Science, Mathematics & Statistics  
-Acharya Nagarjuna University (2021)
-
----
-
-## 📫 Let's Connect
-
-📧 Email: [dsaisantoshkumar@gmail.com](mailto:dsaisantoshkumar@gmail.com)  
-🔗 LinkedIn: [https://linkedin.com/in/santosh29](https://linkedin.com/in/santosh29)  
-Portfolio: https://dsaisantoshkumar.github.io/
+### SAP ABAP Developer | Cognizant Technology Solutions
+February 2021 – July 2022
+* Developed custom DDIC objects, Table Maintenance Generators (TMG), Module Pool programs, and ALV reports for sales and procurement analytics.
+* Built foundational CDS views for real-time S/4HANA reporting and optimized Open SQL queries using ST05 and SE30.
+* Authored reusable function modules, BAPIs, and validated OData endpoints via Postman, while debugging short dumps using ST22 and Eclipse ADT.
 
 ---
 
-⭐ Always learning. Always optimizing. Always building scalable SAP solutions.
+## Featured Projects
+
+### S/4HANA Performance Optimization — CDS Views and HANA Pushdown
+* Problem: Finance and procurement reports were taking up to 12 minutes to execute, causing major delays in month-end closing and PO approvals.
+* Solution: Replaced nested Open SQL with CDS aggregation layers and AMDP-based HANA pushdown. Built ST05 and SE30 profiled index strategies.
+* Impact: Report runtime dropped from 12 minutes to under 2 minutes (an 83 percent reduction), posting speed improved by 65 percent, and overall database load reduced by 40 percent across systems processing over 1 billion records.
+
+### SAP Data Insights — NLP Anomaly Detection
+* Problem: Finance and MM modules were generating thousands of daily incidents requiring manual triage, causing alert fatigue.
+* Solution: Built an end-to-end machine learning pipeline ingesting live SAP data via OData APIs. Isolation Forest and z-score detect anomalies while a TF-IDF NLP module auto-classifies incident tickets.
+* Impact: Manual triage reduced by 35 percent, processing over 50,000 records per day with 99.5 percent uptime.
+
+### AI-Assisted CDS View Generator
+* Problem: Writing CDS views with correct annotations, associations, and Fiori-ready metadata is repetitive and error-prone when working across dozens of SAP tables.
+* Solution: Developed a Python AI agent that reads SAP table structures and auto-generates production-ready CDS code with annotations, associations, and UI metadata, enforcing clean-core BTP best practices.
+* Impact: Drastically cuts CDS development time, eliminates boilerplate errors, and ensures generated views are Fiori-ready from the start.
+
+---
+
+## Credentials and Certifications
+* SAP Certified: ABAP RESTful Programming Model (RAP)
+* SAP Certified: SAP Professional Fundamentals
+* SAP Certified: SAP ABAP Fundamentals
+* Google Certified: Google AI Essentials
+* AI and Automation: AI Agent Development
+* Generative AI: LLM Knowledge Certification
+
+---
+
+## Education
+* Master of Science in Computer Science | University of Southern Mississippi
+* Bachelor of Science in Computer Science, Mathematics and Statistics | Acharya Nagarjuna University
+
+---
+
+## Connect With Me
+* Email: dsaisantoshkumar@gmail.com
+* LinkedIn: linkedin.com/in/santosh29
+* Portfolio: dsaisantoshkumar.github.io
+
+Based in Bentonville, Arkansas, USA
