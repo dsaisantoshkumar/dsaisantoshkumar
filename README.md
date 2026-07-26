@@ -2,7 +2,7 @@
 
 ## SAP S/4HANA and BTP Consultant | AI and ML Engineer
 
-I am an SAP S/4HANA ABAP Consultant with more than 4 years of enterprise experience specializing in Clean Core architecture, SAP BTP, and modern backend development. Beyond core SAP, I bridge the gap between enterprise data and intelligent systems by building machine learning pipelines and automated code-generation agents.
+I am a software developer with 3+ years of professional experience across SAP S/4HANA ABAP, Clean Core architecture, SAP BTP, and modern backend development. Beyond core SAP, I bridge the gap between enterprise data and intelligent systems by building machine learning pipelines and automated code-generation agents.
 
 ---
 
@@ -23,6 +23,13 @@ I am an SAP S/4HANA ABAP Consultant with more than 4 years of enterprise experie
 
 ## Professional Experience
 
+### Python Developer | Tech Pro
+February 2026 – Present
+* Build and maintain Python backend components and REST APIs that support application workflows and system integrations.
+* Create automation scripts and data processing utilities with validation, logging, and exception handling for recurring operational tasks.
+* Write SQL queries and manage database operations for data retrieval, validation, reporting, and application updates.
+* Execute unit and API test cases, including Postman-based endpoint validation, and support Agile code reviews and release cycles.
+
 ### SAP S/4HANA ABAP Consultant | CVS Health
 January 2025 – January 2026
 * Architected configurable data retention solutions (TVARVC) and scalable data separation strategies for high-volume payment systems processing over 1 billion records, applying clean-core principles on SAP BTP ABAP Environment.
@@ -31,13 +38,13 @@ January 2025 – January 2026
 * Led ECC to S/4HANA migration including code remediation, clean-core compliance review, and SLT replication to GCP across DEV, QAS, and PRD environments.
 
 ### SAP ABAP RAP Developer | Cloudninetek LLC
-February 2023 – January 2025
+February 2024 – January 2025
 * Built scalable RAP applications with Business Objects, BDEF, validations, determinations, and side effects for Finance, Procurement, and SCM modules.
 * Designed annotated CDS Views and Fiori Elements apps, exposed OData V2 and V4 via RAP, and integrated SAP with non-SAP systems via REST APIs.
 * Developed Smart Forms, SAP Scripts, and role-based authorization checks across DEV, QA, and PRD landscapes.
 
 ### SAP ABAP Developer | Cognizant Technology Solutions
-February 2021 – July 2022
+October 2021 – July 2022
 * Developed custom DDIC objects, Table Maintenance Generators (TMG), Module Pool programs, and ALV reports for sales and procurement analytics.
 * Built foundational CDS views for real-time S/4HANA reporting and optimized Open SQL queries using ST05 and SE30.
 * Authored reusable function modules, BAPIs, and validated OData endpoints via Postman, while debugging short dumps using ST22 and Eclipse ADT.
