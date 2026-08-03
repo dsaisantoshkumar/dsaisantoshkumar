@@ -1,0 +1,52 @@
+<svg width="100%" viewBox="0 0 600 228" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="contact links">
+  <rect width="600" height="228" fill="#F7F3EA"/>
+  
+  <g transform="translate(20 20)">
+    <rect width="270" height="84" rx="16" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
+    <rect width="270" height="84" rx="16" fill="none" stroke="#AE4A2A" stroke-opacity="0">
+      <animate attributeName="stroke-opacity" values="0;0.5;0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="34" cy="42" r="17" fill="#EDE6D4" stroke="#DCD0B8"/>
+    <circle cx="34" cy="42" r="3.4" fill="#AE4A2A"/>
+    <text x="62" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          font-weight="700" letter-spacing="0.4" fill="#B5793F">GITHUB</text>
+    <text x="62" y="56" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
+          fill="#524C44">github.com/dsaisantoshkumar</text>
+  </g>
+  <g transform="translate(310 20)">
+    <rect width="270" height="84" rx="16" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
+    <rect width="270" height="84" rx="16" fill="none" stroke="#AE4A2A" stroke-opacity="0">
+      <animate attributeName="stroke-opacity" values="0;0.5;0" dur="3.6s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="34" cy="42" r="17" fill="#EDE6D4" stroke="#DCD0B8"/>
+    <circle cx="34" cy="42" r="3.4" fill="#AE4A2A"/>
+    <text x="62" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          font-weight="700" letter-spacing="0.4" fill="#B5793F">LINKEDIN</text>
+    <text x="62" y="56" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
+          fill="#524C44">linkedin.com/in/santosh29</text>
+  </g>
+  <g transform="translate(20 124)">
+    <rect width="270" height="84" rx="16" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
+    <rect width="270" height="84" rx="16" fill="none" stroke="#AE4A2A" stroke-opacity="0">
+      <animate attributeName="stroke-opacity" values="0;0.5;0" dur="3.6s" begin="1.0s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="34" cy="42" r="17" fill="#EDE6D4" stroke="#DCD0B8"/>
+    <circle cx="34" cy="42" r="3.4" fill="#AE4A2A"/>
+    <text x="62" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          font-weight="700" letter-spacing="0.4" fill="#B5793F">PORTFOLIO</text>
+    <text x="62" y="56" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
+          fill="#524C44">dsaisantoshkumar.github.io</text>
+  </g>
+  <g transform="translate(310 124)">
+    <rect width="270" height="84" rx="16" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
+    <rect width="270" height="84" rx="16" fill="none" stroke="#AE4A2A" stroke-opacity="0">
+      <animate attributeName="stroke-opacity" values="0;0.5;0" dur="3.6s" begin="1.5s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="34" cy="42" r="17" fill="#EDE6D4" stroke="#DCD0B8"/>
+    <circle cx="34" cy="42" r="3.4" fill="#AE4A2A"/>
+    <text x="62" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          font-weight="700" letter-spacing="0.4" fill="#B5793F">EMAIL</text>
+    <text x="62" y="56" font-family="'Segoe UI',Arial,sans-serif" font-size="13"
+          fill="#524C44">dsaisantoshkumar@gmail.com</text>
+  </g>
+</svg>

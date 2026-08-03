@@ -1,0 +1,21 @@
+<svg width="100%" viewBox="0 0 900 28" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#DCD0B8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#B5793F" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#DCD0B8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#AE4A2A" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#AE4A2A" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#AE4A2A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="13" width="900" height="2" fill="url(#lineGrad)"/>
+  <rect x="-220" y="13" width="220" height="2" fill="url(#shine)">
+    <animate attributeName="x" values="-220;900" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="450" cy="14" r="3" fill="#AE4A2A">
+    <animate attributeName="r" values="2;3.6;2" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

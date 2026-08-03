@@ -1,0 +1,86 @@
+<svg width="100%" viewBox="0 0 780 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="career and education timeline">
+  <rect width="780" height="470" fill="#F7F3EA"/>
+  <line x1="100" y1="30" x2="100" y2="420" stroke="#DCD0B8" stroke-width="2"/>
+  <line x1="100" y1="30" x2="100" y2="420" stroke="#B5793F" stroke-width="2" stroke-dasharray="6 420" >
+    <animate attributeName="stroke-dashoffset" values="6;-420" dur="6s" repeatCount="indefinite"/>
+  </line>
+  
+  <g>
+    <text x="76" y="35" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2021</text>
+    <circle cx="100" cy="30" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="30" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="27" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">B.Sc. Computer Science, Mathematics &amp; Statistics</text>
+    <text x="128" y="48" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">Acharya Nagarjuna University</text>
+  </g>
+  <g>
+    <text x="76" y="113" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2021</text>
+    <circle cx="100" cy="108" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="108" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="105" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">SAP ABAP Developer</text>
+    <text x="128" y="126" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">Cognizant Technology Solutions — Oct 2021 to Jul 2022</text>
+  </g>
+  <g>
+    <text x="76" y="191" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2023</text>
+    <circle cx="100" cy="186" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="186" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="183" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">M.S. Computer Science completed</text>
+    <text x="128" y="204" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">University of Southern Mississippi — Dec 2023</text>
+  </g>
+  <g>
+    <text x="76" y="269" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2024</text>
+    <circle cx="100" cy="264" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="264" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="1.2000000000000002s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="261" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">SAP ABAP RAP Developer</text>
+    <text x="128" y="282" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">Cloudninetek LLC — Feb 2024 to Jan 2025</text>
+  </g>
+  <g>
+    <text x="76" y="347" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2025</text>
+    <circle cx="100" cy="342" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="342" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="339" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">SAP S/4HANA ABAP Consultant</text>
+    <text x="128" y="360" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">CVS Health — Jan 2025 to Jan 2026</text>
+  </g>
+  <g>
+    <text x="76" y="425" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
+          font-size="14" font-weight="800" fill="#AE4A2A">2026</text>
+    <circle cx="100" cy="420" r="7" fill="#F7F3EA" stroke="#AE4A2A" stroke-width="2.4"/>
+    <circle cx="100" cy="420" r="7" fill="#AE4A2A" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="2.6s" begin="2.0s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="7;13;7" dur="2.6s" begin="2.0s" repeatCount="indefinite"/>
+    </circle>
+    <text x="128" y="417" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
+          font-weight="700" fill="#1B1815">Python Developer</text>
+    <text x="128" y="438" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
+          fill="#8A8272">Tech Pro — Feb 2026 to present</text>
+  </g>
+</svg>
