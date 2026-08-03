@@ -1,94 +1,252 @@
-# Hi, I'm Santosh
+<div align="center">
 
-## SAP S/4HANA and BTP Consultant | AI and ML Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/hero.svg">
+  <img alt="Sai Santosh Kumar Devarasetty" src="assets/light/hero.svg" width="100%">
+</picture>
 
-I am a software developer with 3+ years of professional experience across SAP S/4HANA ABAP, Clean Core architecture, SAP BTP, and modern backend development. Beyond core SAP, I bridge the gap between enterprise data and intelligent systems by building machine learning pipelines and automated code-generation agents.
+</div>
 
----
+<div align="center">
 
-## Technical Arsenal
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/typing.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/typing.svg">
+  <img alt="rotating role titles" src="assets/light/typing.svg" height="44">
+</picture>
 
-### SAP and Enterprise Frameworks
-* Core and Cloud: ABAP RESTful Application Programming Model (RAP), ABAP on HANA, OO-ABAP
-* Database and Core Extensions: CDS Views (with parameters and associations), AMDP, HANA Code Pushdown, DDIC, TMG
-* Integration: OData V2 and V4, SAP Gateway, REST APIs, BAPIs, BADIs, SLT Replication, Postman
-* UX and UI: SAP Fiori Elements, UI5, Adobe Forms, Smart Forms, ALV Reports
-* Performance Tuning: ST05, SE30, SAT, ST22, Eclipse ADT, Code Inspector
+</div>
 
-### AI and Machine Learning
-* Frameworks and Tools: Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
-* Models and Analytics: CNN, RNN, LSTM, NLP, TF-IDF, Anomaly Detection, Power BI
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-dsaisantoshkumar-1B1815?style=for-the-badge&logo=github&logoColor=F7F3EA&labelColor=1B1815&color=AE4A2A)](https://github.com/dsaisantoshkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-santosh29-1B1815?style=for-the-badge&logo=linkedin&logoColor=F7F3EA&labelColor=1B1815&color=AE4A2A)](https://linkedin.com/in/santosh29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-live_site-1B1815?style=for-the-badge&logo=vercel&logoColor=F7F3EA&labelColor=1B1815&color=AE4A2A)](https://dsaisantoshkumar.github.io/saisantoshkumard/)
+[![Email](https://img.shields.io/badge/Email-contact_me-1B1815?style=for-the-badge&logo=gmail&logoColor=F7F3EA&labelColor=1B1815&color=AE4A2A)](mailto:dsaisantoshkumar@gmail.com)
 
-## Professional Experience
+</div>
 
-### Python Developer | Tech Pro
-February 2026 – Present
-* Build and maintain Python backend components and REST APIs that support application workflows and system integrations.
-* Create automation scripts and data processing utilities with validation, logging, and exception handling for recurring operational tasks.
-* Write SQL queries and manage database operations for data retrieval, validation, reporting, and application updates.
-* Execute unit and API test cases, including Postman-based endpoint validation, and support Agile code reviews and release cycles.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
 
-### SAP S/4HANA ABAP Consultant | CVS Health
-January 2025 – January 2026
-* Architected configurable data retention solutions (TVARVC) and scalable data separation strategies for high-volume payment systems processing over 1 billion records, applying clean-core principles on SAP BTP ABAP Environment.
-* Engineered CDS Views with input parameters, AMDP procedures, and HANA-optimized ALV reports using code pushdown, which reduced report runtime by 83 percent.
-* Exposed OData V2 and V4 services via SEGW and RAP for SAP Fiori apps, and built outbound RPS interfaces with parallel processing delivering 65 percent faster posting.
-* Led ECC to S/4HANA migration including code remediation, clean-core compliance review, and SLT replication to GCP across DEV, QAS, and PRD environments.
+## About Me
 
-### SAP ABAP RAP Developer | Cloudninetek LLC
-February 2024 – January 2025
-* Built scalable RAP applications with Business Objects, BDEF, validations, determinations, and side effects for Finance, Procurement, and SCM modules.
-* Designed annotated CDS Views and Fiori Elements apps, exposed OData V2 and V4 via RAP, and integrated SAP with non-SAP systems via REST APIs.
-* Developed Smart Forms, SAP Scripts, and role-based authorization checks across DEV, QA, and PRD landscapes.
+I'm a software developer with three-plus years of professional experience across **SAP S/4HANA ABAP, Clean Core architecture, SAP BTP**, and modern backend development. Beyond core SAP, I bridge the gap between enterprise data and intelligent systems by building **machine learning pipelines** and **automated code-generation agents**.
 
-### SAP ABAP Developer | Cognizant Technology Solutions
-October 2021 – July 2022
-* Developed custom DDIC objects, Table Maintenance Generators (TMG), Module Pool programs, and ALV reports for sales and procurement analytics.
-* Built foundational CDS views for real-time S/4HANA reporting and optimized Open SQL queries using ST05 and SE30.
-* Authored reusable function modules, BAPIs, and validated OData endpoints via Postman, while debugging short dumps using ST22 and Eclipse ADT.
+My SAP work spans the ABAP RESTful Application Programming Model (RAP), CDS Views with AMDP/HANA code pushdown, OData V2/V4 integration, and Clean Core–compliant ECC-to-S/4HANA migrations. On the AI/ML side, I build anomaly-detection pipelines on live SAP data and Python agents that auto-generate production-ready CDS code.
 
----
+- 🎓 M.S. Computer Science — University of Southern Mississippi (Dec 2023)
+- 🎓 B.Sc. Computer Science, Mathematics &amp; Statistics — Acharya Nagarjuna University (2021)
+- 💼 Currently: Python Developer at Tech Pro
+- 🔬 Focus: SAP S/4HANA · BTP · Clean Core · applied ML for enterprise data
+- 📍 Based in Bentonville, Arkansas, USA
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/terminal.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/terminal.svg">
+  <img alt="terminal animation" src="assets/light/terminal.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
+
+## Skills
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/skills.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/skills.svg">
+  <img alt="technical skills" src="assets/light/skills.svg" width="100%">
+</picture>
+
+### Tech Stack
+
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP_ABAP-AE4A2A?style=flat-square&logo=sap&logoColor=F7F3EA)
+![Fiori](https://img.shields.io/badge/SAP_Fiori-AE4A2A?style=flat-square&logo=sap&logoColor=F7F3EA)
+![Python](https://img.shields.io/badge/Python-AE4A2A?style=flat-square&logo=python&logoColor=F7F3EA)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-AE4A2A?style=flat-square&logo=tensorflow&logoColor=F7F3EA)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-AE4A2A?style=flat-square&logo=scikitlearn&logoColor=F7F3EA)
+![Pandas](https://img.shields.io/badge/Pandas-AE4A2A?style=flat-square&logo=pandas&logoColor=F7F3EA)
+![Power BI](https://img.shields.io/badge/Power_BI-AE4A2A?style=flat-square&logo=powerbi&logoColor=F7F3EA)
+![Git](https://img.shields.io/badge/Git-AE4A2A?style=flat-square&logo=git&logoColor=F7F3EA)
+![Postman](https://img.shields.io/badge/Postman-AE4A2A?style=flat-square&logo=postman&logoColor=F7F3EA)
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
 
 ## Featured Projects
 
-### S/4HANA Performance Optimization — CDS Views and HANA Pushdown
-* Problem: Finance and procurement reports were taking up to 12 minutes to execute, causing major delays in month-end closing and PO approvals.
-* Solution: Replaced nested Open SQL with CDS aggregation layers and AMDP-based HANA pushdown. Built ST05 and SE30 profiled index strategies.
-* Impact: Report runtime dropped from 12 minutes to under 2 minutes (an 83 percent reduction), posting speed improved by 65 percent, and overall database load reduced by 40 percent across systems processing over 1 billion records.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/projects.svg">
+  <img alt="featured projects" src="assets/light/projects.svg" width="100%">
+</picture>
 
-### SAP Data Insights — NLP Anomaly Detection
-* Problem: Finance and MM modules were generating thousands of daily incidents requiring manual triage, causing alert fatigue.
-* Solution: Built an end-to-end machine learning pipeline ingesting live SAP data via OData APIs. Isolation Forest and z-score detect anomalies while a TF-IDF NLP module auto-classifies incident tickets.
-* Impact: Manual triage reduced by 35 percent, processing over 50,000 records per day with 99.5 percent uptime.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
 
-### AI-Assisted CDS View Generator
-* Problem: Writing CDS views with correct annotations, associations, and Fiori-ready metadata is repetitive and error-prone when working across dozens of SAP tables.
-* Solution: Developed a Python AI agent that reads SAP table structures and auto-generates production-ready CDS code with annotations, associations, and UI metadata, enforcing clean-core BTP best practices.
-* Impact: Drastically cuts CDS development time, eliminates boilerplate errors, and ensures generated views are Fiori-ready from the start.
+## GitHub Analytics
 
----
+<div align="center">
 
-## Credentials and Certifications
-* SAP Certified: ABAP RESTful Programming Model (RAP)
-* SAP Certified: SAP Professional Fundamentals
-* SAP Certified: SAP ABAP Fundamentals
-* Google Certified: Google AI Essentials
-* AI and Automation: AI Agent Development
-* Generative AI: LLM Knowledge Certification
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dsaisantoshkumar&show_icons=true&hide_border=true&bg_color=1E1B16&title_color=E4793F&text_color=C8C0AF&icon_color=D8A165&border_color=383226">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dsaisantoshkumar&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=AE4A2A&text_color=524C44&icon_color=B5793F&border_color=DCD0B8">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dsaisantoshkumar&show_icons=true&hide_border=true&bg_color=FFFDF8&title_color=AE4A2A&text_color=524C44&icon_color=B5793F&border_color=DCD0B8" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisantoshkumar&layout=compact&hide_border=true&bg_color=1E1B16&title_color=E4793F&text_color=C8C0AF&border_color=383226">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisantoshkumar&layout=compact&hide_border=true&bg_color=FFFDF8&title_color=AE4A2A&text_color=524C44&border_color=DCD0B8">
+  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsaisantoshkumar&layout=compact&hide_border=true&bg_color=FFFDF8&title_color=AE4A2A&text_color=524C44&border_color=DCD0B8" width="49%">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dsaisantoshkumar&hide_border=true&background=1E1B16&ring=E4793F&fire=E4793F&currStreakLabel=D8A165&sideLabels=C8C0AF&currStreakNum=F3EEE3&sideNums=F3EEE3&dates=938A78&border=383226">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dsaisantoshkumar&hide_border=true&background=FFFDF8&ring=AE4A2A&fire=AE4A2A&currStreakLabel=B5793F&sideLabels=524C44&currStreakNum=1B1815&sideNums=1B1815&dates=8A8272&border=DCD0B8">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=dsaisantoshkumar&hide_border=true&background=FFFDF8&ring=AE4A2A&fire=AE4A2A&currStreakLabel=B5793F&sideLabels=524C44&currStreakNum=1B1815&sideNums=1B1815&dates=8A8272&border=DCD0B8" width="100%">
+</picture>
 
-## Education
-* Master of Science in Computer Science | University of Southern Mississippi
-* Bachelor of Science in Computer Science, Mathematics and Statistics | Acharya Nagarjuna University
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dsaisantoshkumar&hide_border=true&bg_color=1E1B16&color=E4793F&line=E4793F&point=F3EEE3">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dsaisantoshkumar&hide_border=true&bg_color=FFFDF8&color=AE4A2A&line=AE4A2A&point=1B1815">
+  <img alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dsaisantoshkumar&hide_border=true&bg_color=FFFDF8&color=AE4A2A&line=AE4A2A&point=1B1815" width="100%">
+</picture>
 
----
+</div>
 
-## Connect With Me
-* Email: dsaisantoshkumar@gmail.com
-* LinkedIn: linkedin.com/in/santosh29
-* Portfolio: dsaisantoshkumar.github.io
+> These four widgets are rendered live by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) — established open-source services, not static images — so the numbers you see always reflect the real, current state of this account.
 
-Based in Bentonville, Arkansas, USA
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
+
+## Experience
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/timeline.svg">
+  <img alt="career and education timeline" src="assets/light/timeline.svg" width="100%">
+</picture>
+
+<details>
+<summary><strong>Python Developer · Tech Pro</strong> — Feb 2026 – Present</summary>
+<br>
+
+- Build and maintain Python backend components and REST APIs that support application workflows and system integrations.
+- Create automation scripts and data processing utilities with validation, logging, and exception handling for recurring operational tasks.
+- Write SQL queries and manage database operations for data retrieval, validation, reporting, and application updates.
+- Execute unit and API test cases, including Postman-based endpoint validation, and support Agile code reviews and release cycles.
+
+</details>
+
+<details>
+<summary><strong>SAP S/4HANA ABAP Consultant · CVS Health</strong> — Jan 2025 – Jan 2026</summary>
+<br>
+
+- Architected configurable data retention solutions (TVARVC) and scalable data separation strategies for high-volume payment systems processing over 1 billion records, applying clean-core principles on SAP BTP ABAP Environment.
+- Engineered CDS Views with input parameters, AMDP procedures, and HANA-optimized ALV reports using code pushdown, which reduced report runtime by 83 percent.
+- Exposed OData V2 and V4 services via SEGW and RAP for SAP Fiori apps, and built outbound RPS interfaces with parallel processing delivering 65 percent faster posting.
+- Led ECC to S/4HANA migration including code remediation, clean-core compliance review, and SLT replication to GCP across DEV, QAS, and PRD environments.
+
+</details>
+
+<details>
+<summary><strong>SAP ABAP RAP Developer · Cloudninetek LLC</strong> — Feb 2024 – Jan 2025</summary>
+<br>
+
+- Built scalable RAP applications with Business Objects, BDEF, validations, determinations, and side effects for Finance, Procurement, and SCM modules.
+- Designed annotated CDS Views and Fiori Elements apps, exposed OData V2 and V4 via RAP, and integrated SAP with non-SAP systems via REST APIs.
+- Developed Smart Forms, SAP Scripts, and role-based authorization checks across DEV, QA, and PRD landscapes.
+
+</details>
+
+<details>
+<summary><strong>SAP ABAP Developer · Cognizant Technology Solutions</strong> — Oct 2021 – Jul 2022</summary>
+<br>
+
+- Developed custom DDIC objects, Table Maintenance Generators (TMG), Module Pool programs, and ALV reports for sales and procurement analytics.
+- Built foundational CDS views for real-time S/4HANA reporting and optimized Open SQL queries using ST05 and SE30.
+- Authored reusable function modules, BAPIs, and validated OData endpoints via Postman, while debugging short dumps using ST22 and Eclipse ADT.
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
+
+## Achievements
+
+**Certifications**
+
+| Certification | Issuer |
+|---|---|
+| ABAP RESTful Programming Model (RAP) | SAP |
+| SAP Professional Fundamentals | SAP |
+| SAP ABAP Fundamentals | SAP |
+| Google AI Essentials | Google |
+| AI Agent Development | — |
+| LLM Knowledge Certification | — |
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dsaisantoshkumar&theme=onedark&no-frame=true&margin-w=8&row=1&column=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=dsaisantoshkumar&theme=flat&no-frame=true&margin-w=8&row=1&column=6">
+  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=dsaisantoshkumar&theme=flat&no-frame=true&margin-w=8&row=1&column=6" width="100%">
+</picture>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
+
+## Open Source
+
+I use my [GitHub](https://github.com/dsaisantoshkumar) to host the code behind everything above — including the [portfolio site](https://dsaisantoshkumar.github.io/saisantoshkumard/) this profile links to, this profile repository itself (built with the same design system, so both live in the same brand), and public repos covering ML/anomaly-detection work, automation tooling, and learning projects. Issues and pull requests are welcome on any public repo.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/divider.svg">
+  <img alt="" src="assets/light/divider.svg" width="100%">
+</picture>
+
+## Contact
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/contact.svg">
+  <img alt="contact links" src="assets/light/contact.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light/footer.svg">
+  <img alt="footer" src="assets/light/footer.svg" width="100%">
+</picture>
+
+<div align="center">
+<sub>Built with hand-authored SVG + SMIL animation — no JavaScript, no build step. See <a href="docs/CUSTOMIZATION.md">docs/CUSTOMIZATION.md</a> for how to edit this, and known limitations.</sub>
+</div>
