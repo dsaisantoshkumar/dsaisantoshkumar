@@ -27,7 +27,7 @@
       <animate attributeName="r" values="7;13;7" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
     </circle>
     <text x="128" y="105" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
-          font-weight="700" fill="#1B1815">SAP ABAP Developer</text>
+          font-weight="700" fill="#1B1815">Programmer Trainee</text>
     <text x="128" y="126" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
           fill="#8A8272">Cognizant Technology Solutions — Oct 2021 to Jul 2022</text>
   </g>
@@ -40,7 +40,7 @@
       <animate attributeName="r" values="7;13;7" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
     <text x="128" y="183" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
-          font-weight="700" fill="#1B1815">M.S. Computer Science completed</text>
+          font-weight="700" fill="#1B1815">M.S. Computer &amp; Information Science completed</text>
     <text x="128" y="204" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
           fill="#8A8272">University of Southern Mississippi — Dec 2023</text>
   </g>
@@ -53,7 +53,7 @@
       <animate attributeName="r" values="7;13;7" dur="2.6s" begin="1.2000000000000002s" repeatCount="indefinite"/>
     </circle>
     <text x="128" y="261" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
-          font-weight="700" fill="#1B1815">SAP ABAP RAP Developer</text>
+          font-weight="700" fill="#1B1815">Software Developer</text>
     <text x="128" y="282" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
           fill="#8A8272">Cloudninetek LLC — Feb 2024 to Jan 2025</text>
   </g>
@@ -66,7 +66,7 @@
       <animate attributeName="r" values="7;13;7" dur="2.6s" begin="1.6s" repeatCount="indefinite"/>
     </circle>
     <text x="128" y="339" font-family="'Segoe UI',Arial,sans-serif" font-size="15"
-          font-weight="700" fill="#1B1815">SAP S/4HANA ABAP Consultant</text>
+          font-weight="700" fill="#1B1815">SAP ABAP Developer, Contract</text>
     <text x="128" y="360" font-family="'Segoe UI',Arial,sans-serif" font-size="12.5"
           fill="#8A8272">CVS Health — Jan 2025 to Jan 2026</text>
   </g>

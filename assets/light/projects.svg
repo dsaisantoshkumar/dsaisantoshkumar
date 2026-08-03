@@ -7,13 +7,13 @@
       <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4.5s" begin="0.0s" repeatCount="indefinite"/>
     </rect>
     <rect x="24" y="22" width="5" height="26" rx="2.5" fill="#AE4A2A"/>
-    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">S/4HANA Performance Optimization</text>
+    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">SAP Payment Data Retention &amp; Separation</text>
     <text x="40" y="64" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="700"
-          letter-spacing="0.5" fill="#B5793F">CDS VIEWS &amp; HANA PUSHDOWN</text>
-    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Replaced nested Open SQL with CDS aggregation + AMDP pushdown.</text>
-    <g transform="translate(24 148)"><rect width="78" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="39" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">CDS Views</text></g><g transform="translate(109.6 148)"><rect width="46" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="23" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">AMDP</text></g><g transform="translate(163.2 148)"><rect width="103" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="52" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">HANA Pushdown</text></g>
+          letter-spacing="0.5" fill="#B5793F">CVS HEALTH — CDS VIEWS &amp; AMDP</text>
+    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Configurable TVARVC retention + data separation across 1B+ records.</text>
+    <g transform="translate(24 148)"><rect width="78" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="39" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">CDS Views</text></g><g transform="translate(109.6 148)"><rect width="46" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="23" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">AMDP</text></g><g transform="translate(163.2 148)"><rect width="58" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="29" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">TVARVC</text></g>
     <text x="536" y="163" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
-          font-size="12" font-weight="700" fill="#4F5D40">12min → &lt;2min</text>
+          font-size="12" font-weight="700" fill="#4F5D40">1B+ records</text>
   </g>
   <g transform="translate(608 24)">
     <rect width="560" height="190" rx="18" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
@@ -21,13 +21,13 @@
       <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4.5s" begin="0.6s" repeatCount="indefinite"/>
     </rect>
     <rect x="24" y="22" width="5" height="26" rx="2.5" fill="#AE4A2A"/>
-    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">SAP Data Insights — NLP Anomaly Detection</text>
+    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">Microservices Platform Modernization</text>
     <text x="40" y="64" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="700"
-          letter-spacing="0.5" fill="#B5793F">ML PIPELINE ON LIVE SAP ODATA</text>
-    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Isolation Forest + TF-IDF auto-detect and classify SAP incidents.</text>
-    <g transform="translate(24 148)"><rect width="58" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="29" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Python</text></g><g transform="translate(90.4 148)"><rect width="122" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="61" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Isolation Forest</text></g><g transform="translate(220.8 148)"><rect width="58" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="29" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">TF-IDF</text></g>
+          letter-spacing="0.5" fill="#B5793F">CLOUDNINETEK — SPRING BOOT &amp; K8S</text>
+    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Spring Cloud Netflix microservices with Kafka, Redis, and Kubernetes.</text>
+    <g transform="translate(24 148)"><rect width="90" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="45" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Spring Boot</text></g><g transform="translate(122.4 148)"><rect width="52" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="26" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Kafka</text></g><g transform="translate(182.4 148)"><rect width="84" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="42" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Kubernetes</text></g>
     <text x="536" y="163" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
-          font-size="12" font-weight="700" fill="#4F5D40">50k+ rec/day</text>
+          font-size="12" font-weight="700" fill="#4F5D40">High availability</text>
   </g>
   <g transform="translate(24 238)">
     <rect width="560" height="190" rx="18" fill="#FFFDF8" stroke="#DCD0B8" stroke-width="1.2"/>
@@ -35,12 +35,12 @@
       <animate attributeName="stroke-opacity" values="0.1;0.5;0.1" dur="4.5s" begin="1.2s" repeatCount="indefinite"/>
     </rect>
     <rect x="24" y="22" width="5" height="26" rx="2.5" fill="#AE4A2A"/>
-    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">AI-Assisted CDS View Generator</text>
+    <text x="40" y="42" font-family="Georgia, serif" font-size="19" font-weight="600" fill="#1B1815">Automated Test &amp; CI/CD Pipeline</text>
     <text x="40" y="64" font-family="'Segoe UI',Arial,sans-serif" font-size="11.5" font-weight="700"
-          letter-spacing="0.5" fill="#B5793F">PYTHON AGENT FOR SAP TABLES</text>
-    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Auto-generates production-ready, Fiori-ready CDS code with annotations &amp; associations.</text>
-    <g transform="translate(24 148)"><rect width="58" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="29" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Python</text></g><g transform="translate(90.4 148)"><rect width="71" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="36" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">AI Agent</text></g><g transform="translate(169.60000000000002 148)"><rect width="84" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="42" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Clean Core</text></g>
+          letter-spacing="0.5" fill="#B5793F">CLOUDNINETEK — SELENIUM &amp; AZURE DEVOPS</text>
+    <text x="24" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="13.5" fill="#524C44">Selenium/Maven/TestNG framework wired into Jenkins and Azure DevOps.</text>
+    <g transform="translate(24 148)"><rect width="71" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="36" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Selenium</text></g><g transform="translate(103.2 148)"><rect width="65" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="32" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Jenkins</text></g><g transform="translate(176.0 148)"><rect width="97" height="22" rx="11" fill="#EDE6D4" stroke="#DCD0B8"/><text x="48" y="15" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="10.5" font-weight="600" fill="#524C44">Azure DevOps</text></g>
     <text x="536" y="163" text-anchor="end" font-family="'Segoe UI',Arial,sans-serif"
-          font-size="12" font-weight="700" fill="#4F5D40">Zero boilerplate</text>
+          font-size="12" font-weight="700" fill="#4F5D40">Faster releases</text>
   </g>
 </svg>
