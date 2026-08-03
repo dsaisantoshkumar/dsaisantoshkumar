@@ -47,10 +47,10 @@
   </rect>
 
   <text x="82" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="600" fill="url(#nameGrad)">Sai Santosh Kumar Devarasetty</text>
-  <text x="84" y="186" font-family="'Segoe UI', Arial, sans-serif" font-size="17" letter-spacing="2.4" font-weight="700" fill="#E4793F">SAP S/4HANA &amp; BTP CONSULTANT · AI &amp; ML ENGINEER</text>
+  <text x="84" y="186" font-family="'Segoe UI', Arial, sans-serif" font-size="17" letter-spacing="2.4" font-weight="700" fill="#E4793F">BACKEND SOFTWARE DEVELOPER · PYTHON, JAVA &amp; SAP ABAP</text>
 
-  <text x="84" y="230" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C8C0AF">Bridging enterprise SAP data and intelligent systems — Clean Core</text>
-  <text x="84" y="253" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C8C0AF">S/4HANA solutions, ML pipelines, and automated code-generation agents.</text>
+  <text x="84" y="230" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C8C0AF">3+ years building REST/OData APIs, SAP S/4HANA solutions, and</text>
+  <text x="84" y="253" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#C8C0AF">cloud-native backend systems across the full Agile SDLC.</text>
 
   <g transform="translate(84 272)">
     <rect width="214" height="28" rx="14" fill="#262218" stroke="#383226"/>
@@ -72,7 +72,7 @@
       <text y="18" font-size="10" font-weight="700" letter-spacing="1" fill="#938A78">FEATURED PROJECTS</text>
     </g>
     <g transform="translate(680 336)">
-      <text font-size="21" font-weight="800" fill="#E4793F">6</text>
+      <text font-size="21" font-weight="800" fill="#E4793F">5</text>
       <text y="18" font-size="10" font-weight="700" letter-spacing="1" fill="#938A78">CERTIFICATIONS</text>
     </g>
   </g>
