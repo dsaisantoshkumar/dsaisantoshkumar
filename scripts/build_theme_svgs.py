@@ -65,60 +65,60 @@ THEMES = {"dark": DARK, "light": LIGHT}
 # Real content — no placeholder text anywhere below.
 # ---------------------------------------------------------------------------
 NAME = "Sai Santosh Kumar Devarasetty"
-ROLE_LINE = "SAP S/4HANA &amp; BTP CONSULTANT · AI &amp; ML ENGINEER"
-TAGLINE_1 = "Bridging enterprise SAP data and intelligent systems — Clean Core"
-TAGLINE_2 = "S/4HANA solutions, ML pipelines, and automated code-generation agents."
+ROLE_LINE = "BACKEND SOFTWARE DEVELOPER · PYTHON, JAVA &amp; SAP ABAP"
+TAGLINE_1 = "3+ years building REST/OData APIs, SAP S/4HANA solutions, and"
+TAGLINE_2 = "cloud-native backend systems across the full Agile SDLC."
 LOCATION_TEXT = "BENTONVILLE, AR · USA"
 
 ROLES = [
-    "SAP S/4HANA ABAP Consultant",
-    "SAP BTP & Clean Core Developer",
-    "Machine Learning Engineer",
-    "Python Backend Developer",
-    "AI Agent Developer",
-    "RAP & Fiori Developer",
+    "Backend Software Developer",
+    "SAP ABAP & RAP Developer",
+    "Python Developer",
+    "Java &amp; Spring Developer",
+    "REST/OData API Developer",
+    "Cloud-Native Systems Engineer",
 ]
 
 SKILL_GROUPS = [
-    ("SAP Core & Cloud", ["ABAP RAP", "ABAP on HANA", "OO-ABAP"]),
-    ("Database & Extensions", ["CDS Views", "AMDP", "HANA Pushdown", "DDIC", "TMG"]),
-    ("Integration", ["OData V2/V4", "SAP Gateway", "BAPIs/BADIs", "SLT Replication", "Postman"]),
-    ("UX & UI", ["Fiori Elements", "UI5", "Adobe Forms", "Smart Forms", "ALV Reports"]),
-    ("Performance Tuning", ["ST05", "SE30", "SAT", "ST22", "Eclipse ADT"]),
-    ("AI & ML Frameworks", ["Python", "TensorFlow", "Keras", "Scikit-learn", "Pandas", "NumPy"]),
-    ("Models & Analytics", ["CNN", "RNN", "LSTM", "NLP", "TF-IDF", "Anomaly Detection", "Power BI"]),
+    ("Programming", ["Python", "Java", "SAP ABAP", "OO-ABAP", "SQL", "JSP/Servlets"]),
+    ("Backend & Integration", ["REST APIs", "OData", "BAPI/BADI", "RFC", "IDoc", "JSON"]),
+    ("Testing & Validation", ["Postman", "Unit Testing", "API Testing", "Code Reviews"]),
+    ("SAP S/4HANA", ["RAP", "CDS Views", "AMDP", "ALV Reports", "Interfaces"]),
+    ("Databases & OS", ["MySQL", "PostgreSQL", "Oracle", "SAP HANA", "Linux/Unix"]),
+    ("Frameworks & Cloud", ["Spring Boot", "Spring Security", "Microservices", "AWS", "Kubernetes", "Docker", "Kafka", "Redis"]),
+    ("Tools & Practices", ["Git", "SAP GUI", "Eclipse ADT", "Jenkins", "Azure DevOps", "Agile/Scrum"]),
 ]
 
 PROJECTS = [
     {
-        "title": "S/4HANA Performance Optimization",
-        "meta": "CDS Views & HANA Pushdown",
-        "desc": "Replaced nested Open SQL with CDS aggregation + AMDP pushdown.",
-        "tags": ["CDS Views", "AMDP", "HANA Pushdown"],
-        "stat": "12min → <2min",
+        "title": "SAP Payment Data Retention & Separation",
+        "meta": "CVS Health — CDS Views & AMDP",
+        "desc": "Configurable TVARVC retention + data separation across 1B+ records.",
+        "tags": ["CDS Views", "AMDP", "TVARVC"],
+        "stat": "1B+ records",
     },
     {
-        "title": "SAP Data Insights — NLP Anomaly Detection",
-        "meta": "ML pipeline on live SAP OData",
-        "desc": "Isolation Forest + TF-IDF auto-detect and classify SAP incidents.",
-        "tags": ["Python", "Isolation Forest", "TF-IDF"],
-        "stat": "50k+ rec/day",
+        "title": "Microservices Platform Modernization",
+        "meta": "Cloudninetek — Spring Boot & K8s",
+        "desc": "Spring Cloud Netflix microservices with Kafka, Redis, and Kubernetes.",
+        "tags": ["Spring Boot", "Kafka", "Kubernetes"],
+        "stat": "High availability",
     },
     {
-        "title": "AI-Assisted CDS View Generator",
-        "meta": "Python agent for SAP tables",
-        "desc": "Auto-generates production-ready, Fiori-ready CDS code with annotations & associations.",
-        "tags": ["Python", "AI Agent", "Clean Core"],
-        "stat": "Zero boilerplate",
+        "title": "Automated Test & CI/CD Pipeline",
+        "meta": "Cloudninetek — Selenium & Azure DevOps",
+        "desc": "Selenium/Maven/TestNG framework wired into Jenkins and Azure DevOps.",
+        "tags": ["Selenium", "Jenkins", "Azure DevOps"],
+        "stat": "Faster releases",
     },
 ]
 
 TIMELINE = [
     ("2021", "B.Sc. Computer Science, Mathematics & Statistics", "Acharya Nagarjuna University"),
-    ("2021", "SAP ABAP Developer", "Cognizant Technology Solutions — Oct 2021 to Jul 2022"),
-    ("2023", "M.S. Computer Science completed", "University of Southern Mississippi — Dec 2023"),
-    ("2024", "SAP ABAP RAP Developer", "Cloudninetek LLC — Feb 2024 to Jan 2025"),
-    ("2025", "SAP S/4HANA ABAP Consultant", "CVS Health — Jan 2025 to Jan 2026"),
+    ("2021", "Programmer Trainee", "Cognizant Technology Solutions — Oct 2021 to Jul 2022"),
+    ("2023", "M.S. Computer & Information Science completed", "University of Southern Mississippi — Dec 2023"),
+    ("2024", "Software Developer", "Cloudninetek LLC — Feb 2024 to Jan 2025"),
+    ("2025", "SAP ABAP Developer, Contract", "CVS Health — Jan 2025 to Jan 2026"),
     ("2026", "Python Developer", "Tech Pro — Feb 2026 to present"),
 ]
 
@@ -133,9 +133,9 @@ TERMINAL_LINES = [
     "$ whoami",
     "sai_santosh_kumar_devarasetty",
     "$ cat focus.txt",
-    "SAP Clean Core architecture + applied ML, shipped to production.",
-    "$ python detect_anomalies.py --source sap_odata",
-    "[INFO] Isolation Forest + TF-IDF — 50k+ rec/day, 99.5% uptime ✓",
+    "Backend systems in Python/Java + SAP ABAP, shipped and supported in prod.",
+    "$ python run_tests.py --suite api",
+    "[INFO] Postman + unit/API tests — all endpoints validated ✓",
 ]
 
 
@@ -283,7 +283,7 @@ HERO_TMPL = """
       <text y="18" font-size="10" font-weight="700" letter-spacing="1" fill="$TEXT_FAINT">FEATURED PROJECTS</text>
     </g>
     <g transform="translate(680 336)">
-      <text font-size="21" font-weight="800" fill="$ACCENT_RUST">6</text>
+      <text font-size="21" font-weight="800" fill="$ACCENT_RUST">5</text>
       <text y="18" font-size="10" font-weight="700" letter-spacing="1" fill="$TEXT_FAINT">CERTIFICATIONS</text>
     </g>
   </g>
